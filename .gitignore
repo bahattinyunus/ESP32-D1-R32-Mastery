@@ -1,0 +1,15 @@
+.pio
+.pio/
+.vscode
+.idea
+*.elf
+*.bin
+*.hex
+*.o
+*.a
+*.d
+*.map
+build/
+dist/
+__pycache__/
+*.pyc
